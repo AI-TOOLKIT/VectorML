@@ -11,7 +11,7 @@
 > AI-TOOLKIT HELPDESK: **[AI-TOOLKIT HELPDESK FOR SERIAL NUMBER](https://aitoolkit.freshdesk.com/support/solutions/articles/26000016343)**
 >
 
-> **VectorML Official website**: [AI-TOOLKIT VectorML](https://ai-toolkit.blogspot.com/p/VectorML.html)
+> **VectorML Official website**: [AI-TOOLKIT VectorML](https://ai-toolkit.blogspot.com/p/vectorml.html)
 
 # VectorML
 You can use VectorML to convert bitmap images to vector format (svg) and to view vector images in SVG format. Based on machine learning and with combined **GPU** & **CPU** acceleration.
