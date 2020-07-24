@@ -2,7 +2,7 @@
 
 ** **
 
-> **DOWNLOAD link: [VectorML](https://github.com/AI-TOOLKIT/VectorML/releases/download/v1.12/VectorMLSetup.exe) The full version of the software is FREE for non-commercial use!** (Microsoft Windows 64bit compatible (Windows 7, 8 and 10))
+> **DOWNLOAD link: [VectorML v1.16](https://github.com/AI-TOOLKIT/VectorML/releases/download/v1.16/VectorMLSetup.exe) The full version of the software is FREE for non-commercial use!** (Microsoft Windows 64bit compatible (Windows 7, 8 and 10))
 >
 
 ** **
